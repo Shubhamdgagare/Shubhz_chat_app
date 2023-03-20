@@ -10,14 +10,14 @@ users = create- search- login
 Real-time messaging.
 Ability to send images.
 
-===============================================
+========================
 Technologies Used = 
 React
 Firebase
 HTML
 CSS
 
-================================================
+============================
 Installation
 Clone the repository.
 
@@ -32,15 +32,17 @@ installing sass =  in simple language its css on steroids.
 
 npm i sass
 
-======================================================================================================
+===============================
 Installing uuid package for inserting data into databse with send button => A UUID (Universal Unique Identifier) is a 128-bit number used to uniquely identify some object or entity on the Internet.
 
 npm i uuid
 
-=======================================================================================================
+=================================
 installing firebase package =>
 
 npm i firebase
+
+go to firebase for creating backend server = https://console.firebase.google.com/u/1/
 
 create "firebase.js" file in src folder for configuration =>
 
@@ -67,14 +69,17 @@ export const storage = getStorage();
 export const db = getFirestore();
 
 
-======
+==================================================
+
 after this with the help of google docs we are configuring and storing user info with images of user in google cloud and retrieving it in users search
-======================================================================================================
+
+==================================================
 
 installing react-router-dom
 
 npm i react-router-dom
-======================================================================================================
+
+==================================================
 
 Facing error when staring server like below =>
 error:0308010C:digital envelope routines::unsupported
