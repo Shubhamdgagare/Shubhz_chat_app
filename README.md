@@ -1,17 +1,23 @@
+Live Project link - https://64175b0a0327f17ed107b7d7--shubhaz-chat-app.netlify.app/
+
 React Messaging App
 This is a messaging app built with React at the frontend and Firebase as the backend.
 
 Features
+
 Authentication with Firebase.
+users = create- search- login
 Real-time messaging.
 Ability to send images.
-View message history.
-Update user profile information.
-Technologies Used
+
+===============================================
+Technologies Used = 
 React
 Firebase
 HTML
 CSS
+
+================================================
 Installation
 Clone the repository.
 
